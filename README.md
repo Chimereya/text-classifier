@@ -2,14 +2,12 @@
 
 A simple text classification model
 
----
 
 ## App Preview
 
 <!-- ![App Screenshot](screenshot.png) coming soon -->
 *Above: The interactive Swagger UI showing the available API endpoints.*
 
----
 
 ## Key Features
 
@@ -19,7 +17,6 @@ A simple text classification model
 
 
 
----
 
 ## Tech Stack
 
@@ -29,7 +26,6 @@ A simple text classification model
 * **Library:** Scikit learn
 
 
----
 
 ## Getting Started
 
