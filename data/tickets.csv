@@ -1,0 +1,31 @@
+text,label
+"I was charged twice for my subscription this month. Please refund.",billing
+"I can't log into my account even though I reset my password.",account_access
+"My package was supposed to arrive yesterday but it's still in transit.",shipping
+"The app keeps crashing every time I try to upload a photo.",technical_support
+"How do I change the email address associated with my profile?",account_access
+"What is your return policy for international orders?",general_inquiry
+"I received a damaged item in my last delivery.",shipping
+"Can you explain the $15 'service fee' on my latest invoice?",billing
+"I'm getting a 404 error when I click on the dashboard link.",technical_support
+"My tracking number says delivered but I don't see the box anywhere.",shipping
+"I want to cancel my premium membership before the next cycle.",billing
+"Is there a physical store location in New York I can visit?",general_inquiry
+"The software update is stuck at 99% for over an hour now.",technical_support
+"I forgot which username I used to sign up for this service.",account_access
+"Do you offer any discounts for non-profit organizations?",general_inquiry
+"My credit card was declined but I have sufficient funds.",billing
+"The delivery driver left the package in the rain and it is ruined.",shipping
+"I need help setting up the API integration on my website.",technical_support
+"My account has been locked due to too many failed login attempts.",account_access
+"What are your customer service operating hours on weekends?",general_inquiry
+"I never received a confirmation email for order #88219.",shipping
+"Why is there a pending charge for a trial that I already canceled?",billing
+"The 'Forgot Password' link isn't sending any email to my inbox.",account_access
+"Does this product come with a manufacturer's warranty?",general_inquiry
+"I am trying to sync my data but the server keeps timing out.",technical_support
+"Can I change the shipping address for an order I just placed?",shipping
+"I need a formal PDF receipt for my tax records.",billing
+"How do I delete my account and all associated personal data?",account_access
+"The latest firmware update broke the bluetooth connectivity.",technical_support
+"Where can I find the user manual for the Pro version?",general_inquiry
