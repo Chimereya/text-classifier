@@ -26,6 +26,8 @@ A simple text classification model
 * **Language:** Python 3.10+
 * **Framework:** FastAPI
 * **Web Server:** Uvicorn
+* **Library:** Scikit learn
+
 
 ---
 
@@ -46,3 +48,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run local server
+uvicorn main:app --reload
