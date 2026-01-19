@@ -1,20 +1,24 @@
 # Text Classifier
 
-A simple text classification model
+A simple machine learning model that analyzes the text of a movie review from the IMDb dataset to automatically categorize its sentiment, usually as either positive or negative.
 
 
 ## App Preview
 
-<!-- ![App Screenshot](screenshot.png) coming soon -->
+![App Screenshot](screenshot.png)
 *Above: The interactive Swagger UI showing the available API endpoints.*
 
 
 ## Key Features
 
-* **Text preprocessing:**.
-* **TF-IDF → Logistic Regression model:**.
+* **Text preprocessing**.
+* **TF-IDF → Logistic Regression model**.
+* **Model versioning**.
 
 
+
+## Dataset 
+Check out the [Dataset](https://tinyurl.com/bddmvv9j) for more information.
 
 
 
