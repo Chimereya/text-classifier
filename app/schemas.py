@@ -6,3 +6,4 @@ class TextRequest(BaseModel):
 class PredictionResponse(BaseModel):
     category: str
     model_version: str
+    confidence: float

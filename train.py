@@ -19,8 +19,8 @@ DATA_PATH = "data/tickets.csv"
 def train():
     df = pd.read_csv(DATA_PATH)
 
-    X = df["text"]
-    y = df["label"]
+    X = df["review"]
+    y = df["sentiment"]
 
     X_train, X_test, y_train, y_test = train_test_split(
     X, y, 

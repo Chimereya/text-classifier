@@ -1,12 +1,12 @@
 # Text Classifier
 
-A simple text classification model
+A simple machine learning model that analyzes the text of a movie review from the IMDb dataset to automatically categorize its sentiment, usually as either positive or negative.
 
 ---
 
 ## App Preview
 
-<!-- ![App Screenshot](screenshot.png) coming soon -->
+![App Screenshot](screenshot.png) coming soon
 *Above: The interactive Swagger UI showing the available API endpoints.*
 
 ---
@@ -17,6 +17,8 @@ A simple text classification model
 * **TF-IDF → Logistic Regression model:**.
 
 
+## Dataset 
+Check out the [Dataset](https://tinyurl.com/bddmvv9j) for more information.
 
 
 ---
@@ -46,3 +48,5 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+# download and add the IMDB dataset to the data/ directory
