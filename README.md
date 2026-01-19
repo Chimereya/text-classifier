@@ -6,7 +6,7 @@ A simple machine learning model that analyzes the text of a movie review from th
 
 ## App Preview
 
-![App Screenshot](screenshot.png) coming soon
+![App Screenshot](screenshot.png)
 *Above: The interactive Swagger UI showing the available API endpoints.*
 
 ---
