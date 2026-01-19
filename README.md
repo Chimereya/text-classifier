@@ -13,8 +13,10 @@ A simple machine learning model that analyzes the text of a movie review from th
 
 ## Key Features
 
-* **Text preprocessing:**.
-* **TF-IDF → Logistic Regression model:**.
+* **Text preprocessing**.
+* **TF-IDF → Logistic Regression model**.
+* **Model versioning**.
+
 
 
 ## Dataset 
