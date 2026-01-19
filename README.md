@@ -2,14 +2,12 @@
 
 A simple machine learning model that analyzes the text of a movie review from the IMDb dataset to automatically categorize its sentiment, usually as either positive or negative.
 
----
 
 ## App Preview
 
 ![App Screenshot](screenshot.png)
 *Above: The interactive Swagger UI showing the available API endpoints.*
 
----
 
 ## Key Features
 
@@ -23,15 +21,15 @@ A simple machine learning model that analyzes the text of a movie review from th
 Check out the [Dataset](https://tinyurl.com/bddmvv9j) for more information.
 
 
----
 
 ## Tech Stack
 
 * **Language:** Python 3.10+
 * **Framework:** FastAPI
 * **Web Server:** Uvicorn
+* **Library:** Scikit learn
 
----
+
 
 ## Getting Started
 
@@ -51,4 +49,5 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# download and add the IMDB dataset to the data/ directory
+# Run local server
+uvicorn main:app --reload
